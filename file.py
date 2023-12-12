@@ -18,3 +18,4 @@ df.index=df['Date']
 plt.figure(figsize=(16,8))
 plt.plot(df["Close"],label='Close Price history')
 
+import math
