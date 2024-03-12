@@ -1,0 +1,9 @@
+tensorflow>=2.0
+pandas
+numpy
+matplotlib
+keras
+scikit-learn
+dash
+dash_html_components
+dash_core_components
