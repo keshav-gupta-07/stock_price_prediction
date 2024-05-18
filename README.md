@@ -12,4 +12,4 @@ Requirements -
 Usage
 1) Clone the repository: git clone https://github.com/keshav-gupta-07/stock_price_prediction.git
 2) pip install -r requirements.txt
-3) After training, you can use the trained model for prediction by running: python main.ipynb
+3) After training, you can use the trained model for prediction by running the following command on your terminal: python main.ipynb
