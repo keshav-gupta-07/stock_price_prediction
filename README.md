@@ -1,6 +1,8 @@
 # stock_price_prediction
 
-This repository contains code for predicting stock prices using Long Short-Term Memory (LSTM) neural networks. LSTM networks are a type of recurrent neural network (RNN) well-suited for sequence prediction tasks like time series forecasting.
+This repository contains code for predicting stock prices using Long Short-Term Memory (LSTM) neural networks. 
+
+Long short-term memory (LSTM) is a type of recurrent neural network (RNN) aimed at dealing with the vanishing gradient problem present in traditional RNNs. Its relative insensitivity to gap length is its advantage over other RNNs, hidden Markov models and other sequence learning methods. It aims to provide a short-term memory for RNN that can last thousands of timesteps, thus "long short-term memory". It is applicable to classification, processing and predicting data based on time series, such as in handwriting, speech recognition, machine translation, speech activity detection, robot control, video games, and healthcare.
 
 Requirements - 
 1) Python 3.x
